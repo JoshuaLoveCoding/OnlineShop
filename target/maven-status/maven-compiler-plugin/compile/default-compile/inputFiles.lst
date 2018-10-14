@@ -2,6 +2,7 @@
 /Users/joshua/eclipse-workspace/onlineShop/src/main/java/onlineShop/controller/CartItemController.java
 /Users/joshua/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/CartItemDaoImpl.java
 /Users/joshua/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Cart.java
+/Users/joshua/eclipse-workspace/onlineShop/src/main/java/onlineShop/SecurityConfig.java
 /Users/joshua/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/SalesOrderDaoImpl.java
 /Users/joshua/eclipse-workspace/onlineShop/src/main/java/onlineShop/service/CartServiceImpl.java
 /Users/joshua/eclipse-workspace/onlineShop/src/main/java/onlineShop/service/CustomerService.java
